@@ -1,0 +1,11 @@
+name: PlayerAFK
+version: ${project.version}
+main: com.fracta7.playerafk.PlayerAFK
+api-version: 1.17
+authors: [ fracta7 ]
+description: Simple plugin for being AFK
+commands:
+  afk:
+    description: Simple Player AFK Display
+    usage: /<command>
+    permission: com.fracta7.playerafk
